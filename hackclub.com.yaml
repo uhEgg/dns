@@ -1642,6 +1642,10 @@ nust:
   - ttl: 1
     type: CNAME
     value: nusthackclub.netlify.app.
+ocsa:
+  - ttl: 3600
+    type: TXT
+    value: google-site-verification=O2LlohyBOM3x0c_m9P7sn14o12H802WsaNle7XIY3QE
 oly:
   - ttl: 1
     type: A
